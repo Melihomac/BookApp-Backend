@@ -1,0 +1,64 @@
+{
+   "books":[
+      {
+         "id":1,
+         "name":"Herr Sommer'in Öyküsü",
+         "image":"/assets/1.jpg",
+         "author":"Patrick Süskind"
+      },
+      {
+         "id":2,
+         "name":"Heyulanın Dönüşü",
+         "image":"/assets/2.jpg",
+         "author":"Yiğit Bener"
+      },
+      {
+         "id":3,
+         "name":"Mavi Köpeğin Gözleri",
+         "image":"/assets/3.jpg",
+         "author":"Gabriel Garcia Marquez"
+      },
+      {
+         "id":4,
+         "name":"Yazın Sanatı",
+         "image":"/assets/4.jpg",
+         "author":"Asuman Kafaoğlu-Büke"
+      },
+      {
+         "id":5,
+         "name":"Ada'daki Ev",
+         "image":"/assets/5.jpg",
+         "author":"Nilüfer Kuyaş"
+      },
+      {
+         "id":6,
+         "name":"Canım Erdalım Sevgili Babacığım",
+         "image":"/assets/6.jpg",
+         "author":"Can Dündar"
+      },
+      {
+         "id":7,
+         "name":"İzlanda Balıkçısı",
+         "image":"/assets/7.jpg",
+         "author":"Pierre Loti"
+      },
+      {
+         "id":8,
+         "name":"Kreutzer Sonat",
+         "image":"/assets/8.jpg",
+         "author":"Lev Tolstoy"
+      },
+      {
+         "id":9,
+         "name":"Mutlu Ölüm",
+         "image":"/assets/9.jpg",
+         "author":"Albert Camus"
+      },
+      {
+         "id":10,
+         "name":"Salondaki En Kötü Koltuk",
+         "image":"/assets/10.jpg",
+         "author":"Murat Murathanoğlu"
+      }
+   ]
+}
